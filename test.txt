@@ -1,0 +1,1 @@
+Head over to Jenkins Dashboard -> Manage jenkins -> Manage Plugins.
